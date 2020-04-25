@@ -44,9 +44,10 @@ h1:after
     margin: 5px auto;
 }
 
-.img
+#GH
 {
-    align-content: center;
+    width: 2rem;
+    height: 2rem;
 }
 
 /* Footer
