@@ -1,4 +1,14 @@
 
+/*Body
+-----------------------------*/
+h1, h3 {
+    font-family: 'Anton', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+}
+
 .team
 {
     margin: 75px 0;
