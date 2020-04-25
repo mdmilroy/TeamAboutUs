@@ -32,3 +32,42 @@ h1:after
     width: 150px;
     margin: 5px auto;
 }
+
+/* Footer
+-----------------------------*/
+#Footer {
+	background-color: #364652; 
+	color: #212227;
+	text-align: center;
+	padding-top: 0.5em;
+	padding-bottom: 0.5em;
+}
+
+#Footer i {
+	font-size: 3rem;
+	color:#F2F4F3;
+	padding: 1rem;
+	margin: 1rem auto 1rem;
+	transition: color 0.5s;
+    display: inline-block;
+    
+}
+
+#Footer i:hover {
+    color: #005B87;
+    
+}
+
+#Footer >a:last-of-type{
+    color: #F2F4F3;
+    transition: color 0.5s;
+}
+
+#Footer >a:last-of-type:hover {
+    color: #005B87;
+    text-decoration: none;
+}
+
+#Footer > p:first-of-type {
+    margin-top: 1.4em;
+}
